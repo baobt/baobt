@@ -325,7 +325,7 @@ export default {
 }
 
 .modal-dialog {
-  //margin-top: 20vh;
+  
 
 }
 
