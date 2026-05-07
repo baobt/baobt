@@ -49,5 +49,5 @@
 
 📧 Email: bienthaibao111@gmail.com
 
-💼 LinkedIn:[ https://linkedin.com/in/YOUR_LINK ](https://www.linkedin.com/in/bi%E1%BB%87n-b%E1%BA%A3o-7a52a8287/) 
+💼 LinkedIn:linkedin.com/in/bienbao23
 
